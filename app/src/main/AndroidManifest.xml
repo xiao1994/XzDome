@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xzweather.xzdemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".BottomTab" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".City">
+        </activity>
+        <activity
+            android:name=".MeLogon">
+        </activity>
+        <activity
+            android:name=".MeFirstImage">
+        </activity>
+        <activity
+            android:name=".MeSecondImage">
+        </activity>
+        <activity
+            android:name=".MeThirdlyImage">
+        </activity>
+        <activity
+            android:name=".Test">
+        </activity>
+        <activity
+            android:name=".PersonalData">
+        </activity>
+        <activity
+            android:name=".Evaluate">
+        </activity>
+        <activity
+            android:name=".Commodity">
+        </activity>
+        <activity
+            android:name=".MerchandiseDetails">
+        </activity>
+    </application>
+
+</manifest>

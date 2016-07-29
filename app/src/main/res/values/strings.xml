@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">肖政Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_d">D</string>
+    <string name="bottom_tab_know">首页</string>
+    <string name="bottom_tab_wantknow">论坛</string>
+    <string name="bottom_tab_my">我</string>
+    <string name="hello">安民集团欢迎您，安民集团欢迎您，安民集团欢迎您，重要的事情要说三遍。</string>
+    <string name="hello2">中国安民科技产业集团是一家致力于高新救援与避险科技产业研发及设备制造的公司。2008年在沈阳成立总部基地，以高层建筑火灾救援、灾难避险、反恐特警应用等设备的开发、生产、销售为主，并填补了行业的市场空白；2014年1月成立了高层火灾救援产品研发中心，以信息化的管理模式，开始涉足救援产品领域；2014年6月集团在以沈阳总部为中心的基础上分别成立北京、上海、深圳、澳门及加拿大海外等营销分公司。</string>
+</resources>
